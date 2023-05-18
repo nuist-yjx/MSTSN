@@ -13,7 +13,7 @@ MSTSN: A novel Multivariate Spatio-Temporal Sensitive Network for drought classi
 
 ## MSTSN model
 
-# main.py
+### main.py
 	You just need to run it.
 	And provide the following parameter adjustment interface:
 	* learning_rate
@@ -26,6 +26,9 @@ MSTSN: A novel Multivariate Spatio-Temporal Sensitive Network for drought classi
 	* conv_nf
 	* kernel_size
 
-# out
+### out
 	  * See console for real-time parameters
 	  * See "/output" for output file 
+## Emails
+2240355864@qq.com
+jiaxinyu@nuist.edu.cn
