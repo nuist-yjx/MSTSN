@@ -1,19 +1,9 @@
 # MSTSN
 MSTSN: A novel Multivariate Spatio-Temporal Sensitive Network for drought classification
 
-## Requirements:
-
-	Pytorch
-	numpy
-	util
-	sklearn
-	pandas
-	matplotlib
-
-
 ## MSTSN model
 
-	main.py
+main.py
 	  You just need to run it.
 	  And provide the following parameter adjustment interface:
 	  learning_rate
@@ -26,9 +16,10 @@ MSTSN: A novel Multivariate Spatio-Temporal Sensitive Network for drought classi
 	  conv_nf
 	  kernel_size
 
-	out
-	  * See console for real-time parameters
-	  * See "/output" for output file 
+out
+  * See console for real-time parameters
+  * See "/output" for output file 
+
 
 
 e-mail:
