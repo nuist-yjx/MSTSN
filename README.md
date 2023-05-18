@@ -30,5 +30,5 @@ MSTSN: A novel Multivariate Spatio-Temporal Sensitive Network for drought classi
 	  * See console for real-time parameters
 	  * See "/output" for output file 
 ## Emails
-2240355864@qq.com
-jiaxinyu@nuist.edu.cn
+	2240355864@qq.com
+	jiaxinyu@nuist.edu.cn
